@@ -1,4 +1,4 @@
 # sanademo
 this is my first repository.
 <br>
-author-sana perween
+author-sana (khan)
